@@ -16,8 +16,8 @@ const Hero = () => {
 					<div className="left-side">
 						<h4>Hello there.</h4>
 							<h4> Welcome to a new doge chain coin </h4>
-						<h1>DOOGIE DOGE</h1>
-						<p>Dev is working to release V2 site and utilities.</p>
+						<h1>DOGE ZOMBIE</h1>
+						<p>Dev is working on the clock to release V2 site and utilities.</p>
 						
 						<Button href="https://dogeswap.org/#/swap" variant="primary" type="create">
     <h3> BUY </h3>
